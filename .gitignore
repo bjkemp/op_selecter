@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Environment variables
+.env
+
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+*.egg
+*.log
+*.coverage
+*.mypy_cache/
+*.pytest_cache/
+*.tox/
+*.coverage.*
+*.hypothesis/
+*.hypothesis/
+*.coverage.*
